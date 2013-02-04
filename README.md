@@ -3,4 +3,4 @@ SolarFilamentDetection
 
 Automatic solar filament detection
 
-This IDL program will automatic download a H-alpha full-disk solar image and extract solar filaments presented on the solar disk.
+This MATLAB program will extract solar filaments presented on the image of solar full-disk.
